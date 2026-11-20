@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite this version and the source copy.
+title: '成蹟錄（1821 年序本，京都大學 セ/177） / Seisekiroku [Collected medical cases of Yoshimasu
+  Nangai]: Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/kyoto-rb00000295-seisekiroku
+keywords:
+- 成蹟錄
+- 成蹟録
+- Seisekiroku
+- 中川壺山
+- 中川修亭
+- 吉益南涯
+- Yoshimasu Nangai
+- historical case records
+- history of medicine
+- Kanbun
