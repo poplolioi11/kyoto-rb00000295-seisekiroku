@@ -17,11 +17,11 @@
     "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000295/manifest.json",
     "manifest_sha256": "21df97a6ade52075497e1904a1d19d393199edd387c1765d63d44189c4299268",
     "record_id": "RB00000295",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": null,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "成蹟錄（1821 年序本，京都大學 セ/177） / Seisekiroku [Collected medical cases of Yoshimasu Nangai]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -184,7 +184,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "prefaces",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -234,14 +234,14 @@
               "type": "seal",
               "location": "左頁前數欄上方藏印",
               "text": "京都帝國大學圖書之印",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "seal",
               "location": "左頁橢圓登錄印",
               "text": "706069／昭15.9.5",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "706069",
@@ -252,28 +252,28 @@
               "type": "seal",
               "location": "左頁序題下墨色長印",
               "text": "□□",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "seal",
               "location": "左頁序題下長朱印",
               "text": "富士川家藏本",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "red"
             },
             {
               "type": "seal",
               "location": "左頁前欄外朱印",
               "text": "富士川游寄贈",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "red"
             },
             {
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄／序",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -316,7 +316,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "prefaces",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -348,7 +348,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／序",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -387,7 +387,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／序／二",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -416,7 +416,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "prefaces",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -448,7 +448,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／序",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -487,7 +487,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／序／三",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -516,7 +516,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "prefaces",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -545,14 +545,14 @@
               "type": "seal",
               "location": "印記",
               "text": "序署名旁有兩印",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／序",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -591,14 +591,14 @@
               "type": "seal",
               "location": "印記",
               "text": "左1題下有一印",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／序",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -641,7 +641,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "prefaces",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -673,7 +673,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／序",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -712,7 +712,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／序／一",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -777,7 +777,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "prefaces",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -809,7 +809,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／序",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -848,7 +848,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／序／二",
-              "column_anchor": 7,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -885,7 +885,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "prefaces",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -905,14 +905,14 @@
               "type": "seal",
               "location": "印記",
               "text": "署名旁兩印",
-              "column_anchor": 3,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／序",
-              "column_anchor": 3,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -957,7 +957,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "凡例／一",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "凡例",
@@ -993,7 +993,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "editorial-introduction",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1031,7 +1031,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／凡例",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -1076,7 +1076,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "凡例／二",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "凡例",
@@ -1104,7 +1104,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "editorial-introduction",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1142,7 +1142,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／凡例",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -1187,7 +1187,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "凡例／三",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "凡例",
@@ -1215,7 +1215,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "editorial-introduction",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1253,7 +1253,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／凡例",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -1283,7 +1283,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "凡例／四",
-              "column_anchor": 4,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "凡例",
@@ -1326,7 +1326,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1381,7 +1381,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／卷之上／一",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -1410,7 +1410,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1448,14 +1448,14 @@
               "type": "printed-small-text",
               "location": "眉批",
               "text": "二",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -1500,7 +1500,7 @@
               "type": "printed-small-text",
               "location": "眉批",
               "text": "三／四／五",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "三",
@@ -1512,7 +1512,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／卷之上／二",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -1541,7 +1541,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1579,7 +1579,7 @@
               "type": "printed-small-text",
               "location": "眉批",
               "text": "六／七／八",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "六",
@@ -1591,7 +1591,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -1636,7 +1636,7 @@
               "type": "printed-small-text",
               "location": "眉批",
               "text": "九／十／十一",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "九",
@@ -1648,7 +1648,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／卷之上／三",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -1677,7 +1677,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1715,7 +1715,7 @@
               "type": "printed-small-text",
               "location": "眉批",
               "text": "十二／十三",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "十二",
@@ -1726,7 +1726,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -1771,7 +1771,7 @@
               "type": "printed-small-text",
               "location": "眉批",
               "text": "十四／十五／十六",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "十四",
@@ -1783,7 +1783,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／卷之上／四",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -1812,7 +1812,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1850,7 +1850,7 @@
               "type": "printed-small-text",
               "location": "眉批",
               "text": "十七／十八",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "十七",
@@ -1861,7 +1861,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -1906,7 +1906,7 @@
               "type": "printed-small-text",
               "location": "眉批",
               "text": "十九／二十",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "十九",
@@ -1917,7 +1917,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／卷之上／五",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -1946,7 +1946,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1984,14 +1984,14 @@
               "type": "printed-small-text",
               "location": "眉批",
               "text": "二十一",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -2036,7 +2036,7 @@
               "type": "printed-small-text",
               "location": "眉批",
               "text": "二十二／二十三／二十四／二十五",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "二十二",
@@ -2049,7 +2049,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／卷之上／六",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -2078,7 +2078,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2116,7 +2116,7 @@
               "type": "printed-small-text",
               "location": "眉批",
               "text": "二十六／二十七",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "二十六",
@@ -2127,7 +2127,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -2172,7 +2172,7 @@
               "type": "printed-small-text",
               "location": "眉批",
               "text": "二十八／二十九",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "二十八",
@@ -2183,7 +2183,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／卷之上／七",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -2212,7 +2212,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2250,7 +2250,7 @@
               "type": "printed-small-text",
               "location": "眉批",
               "text": "三十／三十一／三十二",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "三十",
@@ -2262,7 +2262,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／卷之上／七",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -2308,14 +2308,14 @@
               "type": "printed-small-text",
               "location": "眉批",
               "text": "三十三",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／卷之上／八",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -2366,7 +2366,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2404,14 +2404,14 @@
               "type": "printed-small-text",
               "location": "眉批",
               "text": "三十四",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -2456,7 +2456,7 @@
               "type": "printed-small-text",
               "location": "眉批",
               "text": "三十五／三十六",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "三十五",
@@ -2467,7 +2467,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "成蹟錄／卷之上／九",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -2496,7 +2496,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -2534,22 +2534,22 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第5欄上眉朱書",
               "text": "三十七",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 5,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第9欄上眉朱書",
               "text": "三十八",
               "column_anchor": 9,
-              "color": "unknown"
+              "color": "red"
             }
           ]
         },
@@ -2589,29 +2589,29 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之上　十",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第3欄上眉朱書",
               "text": "三十九",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 3,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第5欄上眉朱書",
               "text": "四十",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 5,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第8欄上眉朱書",
               "text": "四十一",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 8,
+              "color": "red"
             }
           ]
         }
@@ -2634,7 +2634,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2672,22 +2672,22 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "copy-annotation",
+              "type": "vermilion-case-number",
               "location": "右頁第2欄上眉朱書",
               "text": "四十二",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 2,
+              "color": "red"
             },
             {
-              "type": "copy-annotation",
+              "type": "vermilion-case-number",
               "location": "右頁第6欄上眉朱書",
               "text": "四十三",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 6,
+              "color": "red"
             }
           ]
         },
@@ -2727,22 +2727,22 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之上　十一",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "copy-annotation",
+              "type": "vermilion-case-number",
               "location": "左頁第1欄上眉朱書",
               "text": "四十四",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 1,
+              "color": "red"
             },
             {
-              "type": "copy-annotation",
+              "type": "vermilion-case-number",
               "location": "左頁第4欄上眉朱書",
               "text": "四十五",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 4,
+              "color": "red"
             }
           ]
         }
@@ -2765,7 +2765,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2803,15 +2803,15 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第2欄上眉朱書",
               "text": "四十六",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 2,
+              "color": "red"
             }
           ]
         },
@@ -2851,22 +2851,22 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之上　十二",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第1欄上眉朱書",
               "text": "四十七",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 1,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第8欄上眉朱書",
               "text": "四十八",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 8,
+              "color": "red"
             }
           ]
         }
@@ -2889,7 +2889,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2927,22 +2927,22 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第5欄上眉朱書",
               "text": "四十九",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 5,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第8欄上眉朱書",
               "text": "五十",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 8,
+              "color": "red"
             }
           ]
         },
@@ -2982,22 +2982,22 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之上　十三",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第3欄上眉朱書",
               "text": "五十一",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 3,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第8欄上眉朱書",
               "text": "五十二",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 8,
+              "color": "red"
             }
           ]
         }
@@ -3020,7 +3020,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3058,22 +3058,22 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第3欄上眉朱書",
               "text": "五十三",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 3,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第6欄上眉朱書",
               "text": "五十四",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 6,
+              "color": "red"
             }
           ]
         },
@@ -3113,22 +3113,22 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之上　十四",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第6欄上眉朱書",
               "text": "五十五",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 6,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第9欄上眉朱書",
               "text": "五十六",
               "column_anchor": 9,
-              "color": "unknown"
+              "color": "red"
             }
           ]
         }
@@ -3151,7 +3151,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3189,15 +3189,15 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第8欄上眉朱書",
               "text": "五十七",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 8,
+              "color": "red"
             }
           ]
         },
@@ -3237,29 +3237,29 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之上　十五",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第2、3欄界上眉朱書",
               "text": "五十八",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第4欄上眉朱書",
               "text": "五十九",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 4,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第7欄上眉朱書",
               "text": "六十",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 7,
+              "color": "red"
             }
           ]
         }
@@ -3282,7 +3282,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -3320,22 +3320,22 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第4欄上眉朱書",
               "text": "六十一",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 4,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第7欄上眉朱書",
               "text": "六十二",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 7,
+              "color": "red"
             }
           ]
         },
@@ -3375,22 +3375,22 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之上　十六",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第1欄上眉朱書",
               "text": "六十三",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 1,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第5欄上眉朱書",
               "text": "六十四",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 5,
+              "color": "red"
             }
           ]
         }
@@ -3413,7 +3413,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3451,29 +3451,29 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第2欄上眉朱書",
               "text": "六十五",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 2,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第4欄上眉朱書",
               "text": "六十六",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 4,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第9欄上眉朱書",
               "text": "六十七",
               "column_anchor": 9,
-              "color": "unknown"
+              "color": "red"
             }
           ]
         },
@@ -3513,29 +3513,29 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之上　十七",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第3欄上眉朱書",
               "text": "六十八",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 3,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第6欄上眉朱書",
               "text": "六十九",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 6,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第8欄上眉朱書",
               "text": "七十",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 8,
+              "color": "red"
             }
           ]
         }
@@ -3587,7 +3587,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3625,15 +3625,15 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第9欄上眉朱書",
               "text": "七十一",
               "column_anchor": 9,
-              "color": "unknown"
+              "color": "red"
             }
           ]
         },
@@ -3673,22 +3673,22 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之上　十八",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第6欄上眉朱書",
               "text": "七十二",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 6,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第9欄上眉朱書",
               "text": "七十三",
               "column_anchor": 9,
-              "color": "unknown"
+              "color": "red"
             }
           ]
         }
@@ -3711,7 +3711,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3749,15 +3749,15 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第6欄上眉朱書",
               "text": "七十四",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 6,
+              "color": "red"
             }
           ]
         },
@@ -3797,22 +3797,22 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之上　十九",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第2欄上眉朱書",
               "text": "七十五",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 2,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第6欄上眉朱書",
               "text": "七十六",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 6,
+              "color": "red"
             }
           ]
         }
@@ -3835,7 +3835,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3873,29 +3873,29 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第1欄上眉朱書",
               "text": "七十七",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 1,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第4欄上眉朱書",
               "text": "七十八",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 4,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第7欄上眉朱書",
               "text": "七十九",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 7,
+              "color": "red"
             }
           ]
         },
@@ -3935,22 +3935,22 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之上　二十",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第2欄上眉朱書",
               "text": "八十",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 2,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第6欄上眉朱書",
               "text": "八十一",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 6,
+              "color": "red"
             }
           ]
         }
@@ -3973,7 +3973,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4011,29 +4011,29 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第1欄上眉朱書",
               "text": "八十二",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 1,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第3欄上眉朱書",
               "text": "八十三",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 3,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第8欄上眉朱書",
               "text": "八十四",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 8,
+              "color": "red"
             }
           ]
         },
@@ -4073,22 +4073,22 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之上　二十一",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第5欄上眉朱書",
               "text": "八十五",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 5,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第7欄上眉朱書",
               "text": "八十六",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 7,
+              "color": "red"
             }
           ]
         }
@@ -4111,7 +4111,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4149,22 +4149,22 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第1欄上眉朱書",
               "text": "八十七",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 1,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第7欄上眉朱書",
               "text": "八十八",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 7,
+              "color": "red"
             }
           ]
         },
@@ -4204,29 +4204,29 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之上　二十二",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第2欄上眉朱書",
               "text": "八十九",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 2,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第5欄上眉朱書",
               "text": "九十",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 5,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第8欄上眉朱書",
               "text": "九十一",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 8,
+              "color": "red"
             }
           ]
         }
@@ -4249,7 +4249,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4287,29 +4287,29 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之上",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第2欄上眉朱書",
               "text": "九十二",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 2,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第5欄上眉朱書",
               "text": "九十三",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 5,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第9欄上眉朱書",
               "text": "九十四",
               "column_anchor": 9,
-              "color": "unknown"
+              "color": "red"
             }
           ]
         },
@@ -4349,22 +4349,22 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之上　二十三",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第2欄上眉朱書",
               "text": "九十五",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 2,
+              "color": "red"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁第5欄上眉朱書",
               "text": "九十六",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": 5,
+              "color": "red"
             }
           ]
         }
@@ -4387,7 +4387,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -4416,15 +4416,15 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之上",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁第1欄上眉朱書",
               "text": "九十七",
-              "column_anchor": 6,
-              "color": "unknown"
+              "column_anchor": 1,
+              "color": "red"
             }
           ]
         },
@@ -4615,7 +4615,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -4663,43 +4663,43 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之下　一",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "seal",
               "location": "左頁欄外紅印",
               "text": "富士川家藏本",
-              "column_anchor": 8,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "seal",
               "location": "左頁外側紅印",
               "text": "富士川游寄贈",
-              "column_anchor": 8,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "seal",
               "location": "左頁上方大方印",
               "text": "京都帝國大學圖書之印",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "seal",
               "location": "左頁上方卵形墨印",
-              "text": "706069　昭15.9.6",
-              "column_anchor": 8,
+              "text": "706069　昭15.9.5",
+              "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁上方朱記",
               "text": "九十八、一百",
-              "column_anchor": 8,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             }
           ]
         }
@@ -4722,7 +4722,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4757,17 +4757,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁上方朱記",
               "text": "一百一、一百二",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之下",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4805,17 +4805,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁上方朱記",
               "text": "一百三、一百四、一百五",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之下　二",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4854,7 +4854,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4889,17 +4889,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁上方朱記",
               "text": "一百六",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之下",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4937,17 +4937,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁上方朱記",
               "text": "一百七",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之下　三",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4971,7 +4971,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5006,17 +5006,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁上方朱記",
               "text": "一百八、一百九",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之下",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5054,17 +5054,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁上方朱記",
               "text": "一百十、一百十一",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之下　四",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5088,7 +5088,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5123,17 +5123,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁上方朱記",
               "text": "一百十二",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之下",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5174,7 +5174,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之下　五",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5198,7 +5198,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5233,17 +5233,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁上方朱記",
               "text": "一百十三",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之下",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5281,17 +5281,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁上方朱記",
               "text": "一百十四、一百十五",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之下　六",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5315,7 +5315,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -5350,17 +5350,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁上方朱記",
               "text": "一百十六、一百十七",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之下",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5393,22 +5393,22 @@
               "text": "浪華賈人巽屋家僕卒然咽痛自申及酉四肢厥冷"
             },
             {
-              "text": "口不能言如存如亡衆醫以為必死舉家頗騷擾及"
+              "text": "口不能言如存如亡衆醫以為必死舉家煩騷擾及"
             }
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁上方朱記",
               "text": "一百十八、一百十九",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之下　七",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5432,7 +5432,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5467,17 +5467,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁上方朱記",
               "text": "一百二十",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之下",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5515,17 +5515,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁上方朱記",
               "text": "一百二十一、一百二十二",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之下　八",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5564,7 +5564,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5599,17 +5599,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁上方朱記",
               "text": "一百二十三、一百二十四",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之下",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5647,17 +5647,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁上方朱記",
               "text": "一百二十五、一百二十六",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之下　九",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5681,7 +5681,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5719,7 +5719,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之下",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5757,17 +5757,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁上方朱記",
               "text": "一百二十七",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之下　十",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5791,7 +5791,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5826,17 +5826,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁上方朱記",
               "text": "一百二十八、一百二十九",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之下",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5874,17 +5874,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁上方朱記",
               "text": "一百三十、一百三十一",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之下　十一",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5908,7 +5908,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5943,17 +5943,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁上方朱記",
               "text": "一百三十二、一百三十三",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之下",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5991,17 +5991,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁上方朱記",
               "text": "一百三十四",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之下　十二",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -6025,7 +6025,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -6060,17 +6060,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁上方朱記",
               "text": "一百三十六",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之下",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -6108,17 +6108,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁上方朱記",
               "text": "一百三十七",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之下　十三",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -6142,7 +6142,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -6177,17 +6177,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁上方朱記",
               "text": "一百三十八、一百三十九",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之下",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -6225,17 +6225,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁上方朱記",
               "text": "一百四十、一百四十一",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之下　十四",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -6259,7 +6259,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -6294,17 +6294,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁上方朱記",
               "text": "一百四十二、一百四十三",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之下",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -6342,17 +6342,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁上方朱記",
               "text": "一百四十四、一百四十五",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之下　十五",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -6376,7 +6376,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -6411,17 +6411,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "右頁上方朱記",
               "text": "一百四十六、一百四十七",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之下",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -6430,7 +6430,7 @@
           "side": "left",
           "columns": [
             {
-              "text": "伊州一賈人中鼠毒微腫微熱無幾疔瘡瘳後諸證"
+              "text": "伊州一賈人中鼠毒微腫微熱無幾疵瘳瘳後諸證"
             },
             {
               "text": "雜出心氣不定手足腫經年不治就先生求治診之"
@@ -6459,17 +6459,17 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "vermilion-case-number",
               "location": "左頁上方朱記",
               "text": "一百四十八、一百四十九、一百五十",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　卷之下　十六",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -6493,7 +6493,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "section-boundary",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -6513,7 +6513,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "成蹟錄　卷之下",
-              "column_anchor": 3,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -6554,21 +6554,21 @@
               "type": "printed-small-text",
               "location": "左頁第六欄方名下雙行小字",
               "text": "以金匱要畧乾薑人參半夏丸為湯",
-              "column_anchor": 9,
+              "column_anchor": 6,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第七欄方名下雙行小字",
               "text": "以金匱當歸芍藥散為湯",
-              "column_anchor": 9,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第八欄方名下雙行小字",
               "text": "金匱○即傷寒論柴胡桂枝乾薑湯",
-              "column_anchor": 9,
+              "column_anchor": 8,
               "color": "unknown"
             },
             {
@@ -6579,17 +6579,17 @@
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-annotation",
               "location": "左頁上方朱記候讀",
               "text": "血",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             },
             {
               "type": "running-title",
               "location": "左頁版心葉碼",
               "text": "一",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -6613,7 +6613,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "formula-title-and-source-register",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -6651,56 +6651,56 @@
               "type": "printed-small-text",
               "location": "右頁第一欄方名下雙行小字",
               "text": "金匱苓甘薑味辛夏湯中加人參",
-              "column_anchor": 9,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第二欄方名下雙行小字",
               "text": "傷寒論金匱",
-              "column_anchor": 9,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第三欄方名下雙行小字",
               "text": "傷寒論桃核承氣湯",
-              "column_anchor": 9,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第四欄方名下小字",
               "text": "金匱",
-              "column_anchor": 9,
+              "column_anchor": 4,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第五欄方名下小字",
               "text": "同前",
-              "column_anchor": 9,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第六欄方名下雙行小字",
               "text": "家方○本外臺秘要所出張文仲大黃湯去黃蘗加黃芩外臺別有黃連解毒湯然不同",
-              "column_anchor": 9,
+              "column_anchor": 6,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第七欄方名下小字",
               "text": "金匱",
-              "column_anchor": 9,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第八欄方名下小字",
               "text": "傷寒論",
-              "column_anchor": 9,
+              "column_anchor": 8,
               "color": "unknown"
             },
             {
@@ -6748,56 +6748,56 @@
               "type": "printed-small-text",
               "location": "左頁第一欄方名下雙行小字",
               "text": "傷寒論○即金匱茵陳湯",
-              "column_anchor": 9,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第二欄方名下小字",
               "text": "金匱",
-              "column_anchor": 9,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第三欄方名下小字",
               "text": "同前",
-              "column_anchor": 9,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第四欄方名下小字",
               "text": "同前",
-              "column_anchor": 9,
+              "column_anchor": 4,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第五欄方名下雙行小字",
               "text": "傷寒論金匱",
-              "column_anchor": 9,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第六欄方名下雙行小字",
               "text": "傷寒論桂枝湯中加朮茯苓二味",
-              "column_anchor": 9,
+              "column_anchor": 6,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第七欄方名下雙行小字",
               "text": "傷寒論金匱",
-              "column_anchor": 9,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第八欄方名下小字",
               "text": "金匱",
-              "column_anchor": 9,
+              "column_anchor": 8,
               "color": "unknown"
             },
             {
@@ -6811,7 +6811,7 @@
               "type": "running-title",
               "location": "左頁版心葉碼",
               "text": "二",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -6835,7 +6835,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "formula-title-and-source-register",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -6873,56 +6873,56 @@
               "type": "printed-small-text",
               "location": "右頁第一欄方名下注",
               "text": "金匱○即以傷寒論理中丸為湯",
-              "column_anchor": 9,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第二欄方名下注",
               "text": "傷寒論",
-              "column_anchor": 9,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第三欄方名下注",
               "text": "金匱",
-              "column_anchor": 9,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第四欄方名下注",
               "text": "同前",
-              "column_anchor": 9,
+              "column_anchor": 4,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第五欄方名下注",
               "text": "同前",
-              "column_anchor": 9,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第六欄方名下注",
               "text": "傷寒論金匱",
-              "column_anchor": 9,
+              "column_anchor": 6,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第七欄方名下注",
               "text": "傷寒論",
-              "column_anchor": 9,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第八欄方名下注",
               "text": "金匱",
-              "column_anchor": 9,
+              "column_anchor": 8,
               "color": "unknown"
             },
             {
@@ -6933,11 +6933,11 @@
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "vermilion-annotation",
               "location": "右頁上方朱記",
               "text": "水、水",
-              "column_anchor": 9,
-              "color": "unknown"
+              "column_anchor": null,
+              "color": "red"
             }
           ]
         },
@@ -6977,56 +6977,56 @@
               "type": "printed-small-text",
               "location": "左頁第一欄方名下注",
               "text": "金匱",
-              "column_anchor": 9,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第二欄方名下注",
               "text": "傷寒論麻黃杏仁甘艸石膏湯",
-              "column_anchor": 9,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第三欄方名下注",
               "text": "傷寒論",
-              "column_anchor": 9,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第四欄方名下注",
               "text": "同前○此方今為湯用",
-              "column_anchor": 9,
+              "column_anchor": 4,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第五欄方名下注",
               "text": "傷寒論金匱",
-              "column_anchor": 9,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第六欄方名下注",
               "text": "傷寒論大柴胡湯中加茯苓牡蠣二味",
-              "column_anchor": 9,
+              "column_anchor": 6,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第七欄方名下注",
               "text": "傷寒論小建中湯中加茯苓",
-              "column_anchor": 9,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第八欄方名下注",
               "text": "金匱",
-              "column_anchor": 9,
+              "column_anchor": 8,
               "color": "unknown"
             },
             {
@@ -7040,7 +7040,7 @@
               "type": "running-title",
               "location": "左頁版心葉碼",
               "text": "三",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -7064,7 +7064,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "formula-title-and-source-register",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -7102,56 +7102,56 @@
               "type": "printed-small-text",
               "location": "右頁第一欄方名下注",
               "text": "傷寒論金匱",
-              "column_anchor": 9,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第二欄方名下注",
               "text": "金匱",
-              "column_anchor": 9,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第三欄方名下注",
               "text": "家方○本出於松原氏",
-              "column_anchor": 9,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第四欄方名下注",
               "text": "傷寒論桂枝湯中加朮附二味",
-              "column_anchor": 9,
+              "column_anchor": 4,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第五欄方名下注",
               "text": "前方中更加茯苓",
-              "column_anchor": 9,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第六欄方名下注",
               "text": "金匱",
-              "column_anchor": 9,
+              "column_anchor": 6,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第七欄方名下注",
               "text": "同前",
-              "column_anchor": 9,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第八欄方名下注",
               "text": "前桂枝加朮附湯中更加芍藥",
-              "column_anchor": 9,
+              "column_anchor": 8,
               "color": "unknown"
             },
             {
@@ -7199,56 +7199,56 @@
               "type": "printed-small-text",
               "location": "左頁第一欄方名下注",
               "text": "以金匱八味丸為湯",
-              "column_anchor": 9,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第二欄方名下注",
               "text": "傷寒論小柴胡湯中加石膏",
-              "column_anchor": 9,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第三欄方名下注",
               "text": "金匱所引外臺黃芩湯",
-              "column_anchor": 9,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第四欄方名下注",
               "text": "傷寒論",
-              "column_anchor": 9,
+              "column_anchor": 4,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第五欄方名下注",
               "text": "同前",
-              "column_anchor": 9,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第六欄方名下注",
               "text": "畧稱前方",
-              "column_anchor": 9,
+              "column_anchor": 6,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第七欄方名下注",
               "text": "金匱",
-              "column_anchor": 9,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第八欄方名下注",
               "text": "傷寒論",
-              "column_anchor": 9,
+              "column_anchor": 8,
               "color": "unknown"
             },
             {
@@ -7262,7 +7262,7 @@
               "type": "running-title",
               "location": "左頁版心葉碼",
               "text": "四",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -7286,7 +7286,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "formula-title-and-source-register",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -7324,56 +7324,56 @@
               "type": "printed-small-text",
               "location": "右頁第一欄方名下注",
               "text": "金匱桂枝去芍藥加麻黃細辛附子湯",
-              "column_anchor": 9,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第二欄方名下注",
               "text": "家方",
-              "column_anchor": 9,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第三欄方名下注",
               "text": "前方中加大黃",
-              "column_anchor": 9,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第四欄方名下注",
               "text": "傷寒論葛根湯中加朮附二味",
-              "column_anchor": 9,
+              "column_anchor": 4,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第五欄方名下注",
               "text": "葛根湯中加大黃",
-              "column_anchor": 9,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第六欄方名下注",
               "text": "葛根湯中加桔梗",
-              "column_anchor": 9,
+              "column_anchor": 6,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第七欄方名下注",
               "text": "傷寒論金匱",
-              "column_anchor": 9,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第八欄方名下注",
               "text": "金匱",
-              "column_anchor": 9,
+              "column_anchor": 8,
               "color": "unknown"
             },
             {
@@ -7421,49 +7421,49 @@
               "type": "printed-small-text",
               "location": "左頁第一欄方名下注",
               "text": "同前",
-              "column_anchor": 9,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第二欄方名下注",
               "text": "傷寒論",
-              "column_anchor": 9,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第三欄方名下注",
               "text": "金匱",
-              "column_anchor": 9,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第四欄方名下注",
               "text": "家方○本出於民間",
-              "column_anchor": 9,
+              "column_anchor": 4,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第六欄方名下注",
               "text": "以前黃連解毒湯為散",
-              "column_anchor": 9,
+              "column_anchor": 6,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第七欄方名下注",
               "text": "畧稱前方",
-              "column_anchor": 9,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第八欄方名下注",
               "text": "家方",
-              "column_anchor": 9,
+              "column_anchor": 8,
               "color": "unknown"
             },
             {
@@ -7477,7 +7477,7 @@
               "type": "running-title",
               "location": "左頁版心葉碼",
               "text": "五",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -7501,7 +7501,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "formula-title-and-source-register",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -7539,49 +7539,49 @@
               "type": "printed-small-text",
               "location": "右頁第一欄方名下注",
               "text": "畧稱前方",
-              "column_anchor": 9,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第二欄方名下注",
               "text": "世醫所謂芩黃散",
-              "column_anchor": 9,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第三欄方名下注",
               "text": "家方○本出於民間",
-              "column_anchor": 9,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第四欄方名下注",
               "text": "金匱○即傷寒論白散",
-              "column_anchor": 9,
+              "column_anchor": 4,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第五欄方名下注",
               "text": "家方○本出於民間",
-              "column_anchor": 9,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第六欄方名下注",
               "text": "金匱",
-              "column_anchor": 9,
+              "column_anchor": 6,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第七欄方名下注",
               "text": "家方",
-              "column_anchor": 9,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
@@ -7629,56 +7629,56 @@
               "type": "printed-small-text",
               "location": "左頁第一欄方名下注",
               "text": "家方",
-              "column_anchor": 9,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第二欄方名下注",
               "text": "金匱",
-              "column_anchor": 9,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第三欄方名下注",
               "text": "家方○東洞先生稱為夷則丸後避先生諱改為今稱",
-              "column_anchor": 9,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第四欄方名下注",
               "text": "千金方",
-              "column_anchor": 9,
+              "column_anchor": 4,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第五欄方名下注",
               "text": "家方○本出於民間",
-              "column_anchor": 9,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第六欄方名下注",
               "text": "金匱",
-              "column_anchor": 9,
+              "column_anchor": 6,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第七欄方名下注",
               "text": "家方○本出於民間",
-              "column_anchor": 9,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第八欄方名下注",
               "text": "金匱下瘀血湯是也其方以酒煮丸故從湯名今直丸用之不復酒煮",
-              "column_anchor": 9,
+              "column_anchor": 8,
               "color": "unknown"
             },
             {
@@ -7692,7 +7692,7 @@
               "type": "running-title",
               "location": "左頁版心葉碼",
               "text": "六",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -7716,7 +7716,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "section-boundary",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -7769,14 +7769,14 @@
               "type": "printed-small-text",
               "location": "左頁第二欄署名",
               "text": "中川故",
-              "column_anchor": 9,
+              "column_anchor": 2,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "左頁版心",
               "text": "附錄　一",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -7800,7 +7800,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "appendix-and-colophons",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -7871,7 +7871,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "附錄　二",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -7895,7 +7895,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "appendix-and-colophons",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -7966,7 +7966,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "附錄　三",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -7990,7 +7990,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "appendix-and-colophons",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -8028,7 +8028,7 @@
               "type": "printed-small-text",
               "location": "右頁第四欄署名",
               "text": "賀屋敬",
-              "column_anchor": 9,
+              "column_anchor": 4,
               "color": "unknown"
             }
           ]
@@ -8069,7 +8069,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "附錄　四",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -8093,7 +8093,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "appendix-and-colophons",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -8164,7 +8164,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "附錄　五",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -8188,7 +8188,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "appendix-and-colophons",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -8259,7 +8259,7 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "附錄　六",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -8283,7 +8283,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "appendix-and-colophons",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -8339,14 +8339,14 @@
               "type": "running-title",
               "location": "左頁版心",
               "text": "成蹟錄　跋　一",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "seal",
               "location": "左頁第一欄題下方印",
               "text": "〔印文未辨〕",
-              "column_anchor": 8,
+              "column_anchor": 1,
               "color": "unknown"
             }
           ]
@@ -8370,7 +8370,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "appendix-and-colophons",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -8405,7 +8405,7 @@
               "type": "running-title",
               "location": "外側版心",
               "text": "成蹟錄",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -8443,7 +8443,7 @@
               "type": "running-title",
               "location": "外側版心",
               "text": "成蹟錄／二",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "成蹟錄",
@@ -8486,7 +8486,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "appendix-and-colophons",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -8515,21 +8515,21 @@
               "type": "seal",
               "location": "署款左兩方印",
               "text": "印文未釋",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "seal",
               "location": "書者署下印",
               "text": "印文未釋",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "外側版心",
               "text": "成蹟錄",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -8561,7 +8561,7 @@
               "type": "running-title",
               "location": "外側版心",
               "text": "成蹟錄",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -8585,7 +8585,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "appendix-and-colophons",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -8614,14 +8614,14 @@
               "type": "seal",
               "location": "署款下方印",
               "text": "印文未釋",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "外側版心",
               "text": "成蹟錄",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -8631,32 +8631,34 @@
           "columns": [],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "copy-annotation",
               "location": "紅格紙附籤第一欄",
               "text": "成蹟錄　二卷",
               "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "copy-annotation",
               "location": "紅格紙附籤第二欄",
               "text": "中川修亭著",
               "column_anchor": null,
               "color": "unknown"
             },
             {
-              "type": "printed-small-text",
+              "type": "copy-annotation",
               "location": "紅格紙附籤第三欄",
               "text": "吉益南涯先生の門人中川修亭がその",
               "column_anchor": null,
-              "color": "unknown"
+              "color": "unknown",
+              "language": "ja"
             },
             {
-              "type": "printed-small-text",
+              "type": "copy-annotation",
               "location": "紅格紙附籤第四欄",
               "text": "師の治験を輯録せしもの",
               "column_anchor": null,
-              "color": "unknown"
+              "color": "unknown",
+              "language": "ja"
             }
           ]
         }

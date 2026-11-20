@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -357,27 +357,27 @@
             <ab type="column" n="7" xml:id="f04-l-c07">
               <seg type="diplomatic-text">讀此錄者於斯得行方之</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f04-l-c07">
+            <ab type="page-feature" subtype="seal">
               <label>左頁前數欄上方藏印</label>
               <seg type="diplomatic-text" rend="unknown">京都帝國大學圖書之印</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f04-l-c07">
+            <ab type="page-feature" subtype="seal">
               <label>左頁橢圓登錄印</label>
               <seg type="diplomatic-text" rend="unknown">706069／昭15.9.5</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f04-l-c07">
+            <ab type="page-feature" subtype="seal">
               <label>左頁序題下墨色長印</label>
               <seg type="diplomatic-text" rend="unknown">□□</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f04-l-c07">
+            <ab type="page-feature" subtype="seal">
               <label>左頁序題下長朱印</label>
               <seg type="diplomatic-text" rend="red">富士川家藏本</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f04-l-c07">
+            <ab type="page-feature" subtype="seal">
               <label>左頁前欄外朱印</label>
               <seg type="diplomatic-text" rend="red">富士川游寄贈</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f04-l-c07">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／序</seg>
             </ab>
@@ -418,7 +418,7 @@
             <ab type="column" n="7" xml:id="f05-r-c07">
               <seg type="diplomatic-text">時參商異方是以不親悉其</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f05-r-c07">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／序</seg>
             </ab>
@@ -445,7 +445,7 @@
             <ab type="column" n="7" xml:id="f05-l-c07">
               <seg type="diplomatic-text">者滿堂可謂善繼述者矣壺</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f05-l-c07">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／序／二</seg>
             </ab>
@@ -478,7 +478,7 @@
             <ab type="column" n="7" xml:id="f06-r-c07">
               <seg type="diplomatic-text">得手應心之妙乎以爲如仲</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f06-r-c07">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／序</seg>
             </ab>
@@ -505,7 +505,7 @@
             <ab type="column" n="7" xml:id="f06-l-c07">
               <seg type="diplomatic-text">其志有所歸也既而剞劂告</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f06-l-c07">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／序／三</seg>
             </ab>
@@ -535,11 +535,11 @@
             <ab type="column" n="6" xml:id="f07-r-c06">
               <seg type="diplomatic-text">平安松尾茂帥謹撰</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f07-r-c06">
+            <ab type="page-feature" subtype="seal">
               <label>印記</label>
               <seg type="diplomatic-text" rend="unknown">序署名旁有兩印</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f07-r-c06">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／序</seg>
             </ab>
@@ -566,11 +566,11 @@
             <ab type="column" n="7" xml:id="f07-l-c07">
               <seg type="diplomatic-text">操動之而於法而已能出於法勿</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f07-l-c07">
+            <ab type="page-feature" subtype="seal">
               <label>印記</label>
               <seg type="diplomatic-text" rend="unknown">左1題下有一印</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f07-l-c07">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／序</seg>
             </ab>
@@ -611,7 +611,7 @@
             <ab type="column" n="7" xml:id="f08-r-c07">
               <seg type="diplomatic-text">山汲水。畊雲釣雪。怡情邱壑。馳</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f08-r-c07">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／序</seg>
             </ab>
@@ -638,7 +638,7 @@
             <ab type="column" n="7" xml:id="f08-l-c07">
               <seg type="diplomatic-text">溺之者。苟于失者。怨於敗否。□</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f08-l-c07">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／序／一</seg>
             </ab>
@@ -691,7 +691,7 @@
             <ab type="column" n="7" xml:id="f09-r-c07">
               <seg type="diplomatic-text">余之序之曰。所識者求於未治學</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f09-r-c07">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／序</seg>
             </ab>
@@ -718,7 +718,7 @@
             <ab type="column" n="7" xml:id="f09-l-c07">
               <seg type="diplomatic-text">哉之所以□也。失其法之切。不</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f09-l-c07">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／序／二</seg>
             </ab>
@@ -743,11 +743,11 @@
             <ab type="column" n="3" xml:id="f10-r-c03">
               <seg type="diplomatic-text">長門副侍醫賀屋敬恭書</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f10-r-c03">
+            <ab type="page-feature" subtype="seal">
               <label>印記</label>
               <seg type="diplomatic-text" rend="unknown">署名旁兩印</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f10-r-c03">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／序</seg>
             </ab>
@@ -780,7 +780,7 @@
             <ab type="column" n="9" xml:id="f10-l-c09">
               <seg type="diplomatic-text">不信無能得其要者也況海隅之地邊裔之陲未</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f10-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">凡例／一</seg>
             </ab>
@@ -823,7 +823,7 @@
             <ab type="column" n="9" xml:id="f11-r-c09">
               <seg type="diplomatic-text">建珠錄每條必舉居處姓名以實其事今亦欲從</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f11-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／凡例</seg>
             </ab>
@@ -856,7 +856,7 @@
             <ab type="column" n="9" xml:id="f11-l-c09">
               <seg type="diplomatic-text">載唯於後附撿方一篇詳舉諸方所出以便於搜</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f11-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">凡例／二</seg>
             </ab>
@@ -895,7 +895,7 @@
             <ab type="column" n="9" xml:id="f12-r-c09">
               <seg type="diplomatic-text">先生嘗注傷寒論名曰精義宜繙而知焉</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f12-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／凡例</seg>
             </ab>
@@ -928,7 +928,7 @@
             <ab type="column" n="9" xml:id="f12-l-c09">
               <seg type="diplomatic-text">一先生之擇藥品與世醫不同從先生之方者先得</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f12-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">凡例／三</seg>
             </ab>
@@ -967,7 +967,7 @@
             <ab type="column" n="9" xml:id="f13-r-c09">
               <seg type="diplomatic-text">一世人無不悅補益者故醫亦阿其意遂誤其道友</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f13-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／凡例</seg>
             </ab>
@@ -985,7 +985,7 @@
             <ab type="column" n="4" xml:id="f13-l-c04">
               <seg type="diplomatic-text">中川故識</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f13-l-c04">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">凡例／四</seg>
             </ab>
@@ -1039,7 +1039,7 @@
             <ab type="column" n="8" xml:id="f14-l-c08">
               <seg type="diplomatic-text">圊而不得利其意欲得通利劑醫亦爲請先生先生</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f14-l-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／卷之上／一</seg>
             </ab>
@@ -1078,11 +1078,11 @@
             <ab type="column" n="9" xml:id="f15-r-c09">
               <seg type="diplomatic-text">痛先生乃作苓甘薑味辛夏參湯與之諸證日退踰</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f15-r-c09">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>眉批</label>
               <seg type="diplomatic-text" rend="unknown">二</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f15-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／卷之上</seg>
             </ab>
@@ -1115,11 +1115,11 @@
             <ab type="column" n="9" xml:id="f15-l-c09">
               <seg type="diplomatic-text">綿無止其色微黑劇則鼻耳悉出血大便亦下黑血</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f15-l-c09">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>眉批</label>
               <seg type="diplomatic-text" rend="unknown">三／四／五</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f15-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／卷之上／二</seg>
             </ab>
@@ -1158,11 +1158,11 @@
             <ab type="column" n="9" xml:id="f16-r-c09">
               <seg type="diplomatic-text">汗出且下血亦兩三次面無血色羸瘦骨立先生投</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f16-r-c09">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>眉批</label>
               <seg type="diplomatic-text" rend="unknown">六／七／八</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f16-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／卷之上</seg>
             </ab>
@@ -1195,11 +1195,11 @@
             <ab type="column" n="9" xml:id="f16-l-c09">
               <seg type="diplomatic-text">遠州一農夫三十餘歲去年來鬱冒時少吐血盜汗</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f16-l-c09">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>眉批</label>
               <seg type="diplomatic-text" rend="unknown">九／十／十一</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f16-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／卷之上／三</seg>
             </ab>
@@ -1238,11 +1238,11 @@
             <ab type="column" n="9" xml:id="f17-r-c09">
               <seg type="diplomatic-text">則氣急妨滿殊甚其狀如世所謂黃胖病先生與眞</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f17-r-c09">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>眉批</label>
               <seg type="diplomatic-text" rend="unknown">十二／十三</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f17-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／卷之上</seg>
             </ab>
@@ -1275,11 +1275,11 @@
             <ab type="column" n="9" xml:id="f17-l-c09">
               <seg type="diplomatic-text">一婦人胸中痛煩悶不可奈何切按摩之其疾移背</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f17-l-c09">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>眉批</label>
               <seg type="diplomatic-text" rend="unknown">十四／十五／十六</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f17-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／卷之上／四</seg>
             </ab>
@@ -1318,11 +1318,11 @@
             <ab type="column" n="9" xml:id="f18-r-c09">
               <seg type="diplomatic-text">芍藥湯時調下消塊丸以漸而愈</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-r-c09">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>眉批</label>
               <seg type="diplomatic-text" rend="unknown">十七／十八</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f18-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／卷之上</seg>
             </ab>
@@ -1355,11 +1355,11 @@
             <ab type="column" n="9" xml:id="f18-l-c09">
               <seg type="diplomatic-text">甚熱亦益熾先生診之與以眞武湯一二日熱退利</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-l-c09">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>眉批</label>
               <seg type="diplomatic-text" rend="unknown">十九／二十</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f18-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／卷之上／五</seg>
             </ab>
@@ -1398,11 +1398,11 @@
             <ab type="column" n="9" xml:id="f19-r-c09">
               <seg type="diplomatic-text">海月色白其形似囊其中空虛可以盛水醬有圓有</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f19-r-c09">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>眉批</label>
               <seg type="diplomatic-text" rend="unknown">二十一</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f19-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／卷之上</seg>
             </ab>
@@ -1435,11 +1435,11 @@
             <ab type="column" n="9" xml:id="f19-l-c09">
               <seg type="diplomatic-text">一婦人心胸下鞭滿痛不可忍乾嘔短氣顚轉反倒</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f19-l-c09">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>眉批</label>
               <seg type="diplomatic-text" rend="unknown">二十二／二十三／二十四／二十五</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f19-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／卷之上／六</seg>
             </ab>
@@ -1478,11 +1478,11 @@
             <ab type="column" n="9" xml:id="f20-r-c09">
               <seg type="diplomatic-text">撮問之曰十餘年前食牛蒡爲其所傷遂發腹痛以</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c09">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>眉批</label>
               <seg type="diplomatic-text" rend="unknown">二十六／二十七</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f20-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／卷之上</seg>
             </ab>
@@ -1515,11 +1515,11 @@
             <ab type="column" n="9" xml:id="f20-l-c09">
               <seg type="diplomatic-text">而愈</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c09">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>眉批</label>
               <seg type="diplomatic-text" rend="unknown">二十八／二十九</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f20-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／卷之上／七</seg>
             </ab>
@@ -1558,11 +1558,11 @@
             <ab type="column" n="9" xml:id="f21-r-c09">
               <seg type="diplomatic-text">心湯之類不愈一日嘔吐甚服小半夏加茯苓湯嘔</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c09">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>眉批</label>
               <seg type="diplomatic-text" rend="unknown">三十／三十一／三十二</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f21-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／卷之上／七</seg>
             </ab>
@@ -1595,11 +1595,11 @@
             <ab type="column" n="9" xml:id="f21-l-c09">
               <seg type="diplomatic-text">吐先生乃與茯苓澤瀉湯數日全愈</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c09">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>眉批</label>
               <seg type="diplomatic-text" rend="unknown">三十三</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f21-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／卷之上／八</seg>
             </ab>
@@ -1650,11 +1650,11 @@
             <ab type="column" n="9" xml:id="f22-r-c09">
               <seg type="diplomatic-text">月水亦久不來先生投茯苓澤瀉湯兼以消塊丸服</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c09">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>眉批</label>
               <seg type="diplomatic-text" rend="unknown">三十四</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f22-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／卷之上</seg>
             </ab>
@@ -1687,11 +1687,11 @@
             <ab type="column" n="9" xml:id="f22-l-c09">
               <seg type="diplomatic-text">類無效先生診之用桂枝枳實生薑湯全愈</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c09">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>眉批</label>
               <seg type="diplomatic-text" rend="unknown">三十五／三十六</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f22-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／卷之上／九</seg>
             </ab>
@@ -1730,17 +1730,17 @@
             <ab type="column" n="9" xml:id="f23-r-c09">
               <seg type="diplomatic-text">尼崎侯臣堀氏卒發乾嘔一醫與小半夏湯七日不</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f23-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f23-r-c05">
               <label>右頁第5欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">三十七</seg>
+              <seg type="diplomatic-text" rend="red">三十七</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f23-r-c09">
               <label>右頁第9欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">三十八</seg>
+              <seg type="diplomatic-text" rend="red">三十八</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -1771,21 +1771,21 @@
             <ab type="column" n="9" xml:id="f23-l-c09">
               <seg type="diplomatic-text">先生與茯苓杏仁甘艸湯服之三貼小便快利諸證</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f23-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上　十</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f23-l-c03">
               <label>左頁第3欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">三十九</seg>
+              <seg type="diplomatic-text" rend="red">三十九</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f23-l-c05">
               <label>左頁第5欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">四十</seg>
+              <seg type="diplomatic-text" rend="red">四十</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f23-l-c08">
               <label>左頁第8欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">四十一</seg>
+              <seg type="diplomatic-text" rend="red">四十一</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -1822,17 +1822,17 @@
             <ab type="column" n="9" xml:id="f24-r-c09">
               <seg type="diplomatic-text">小便快利遂得全愈</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f24-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f24-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f24-r-c02">
               <label>右頁第2欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">四十二</seg>
+              <seg type="diplomatic-text" rend="red">四十二</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f24-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f24-r-c06">
               <label>右頁第6欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">四十三</seg>
+              <seg type="diplomatic-text" rend="red">四十三</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -1863,17 +1863,17 @@
             <ab type="column" n="9" xml:id="f24-l-c09">
               <seg type="diplomatic-text">復起先生再診服茯苓飲悸即已但兩脚痿跛不差</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f24-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上　十一</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f24-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f24-l-c01">
               <label>左頁第1欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">四十四</seg>
+              <seg type="diplomatic-text" rend="red">四十四</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f24-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f24-l-c04">
               <label>左頁第4欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">四十五</seg>
+              <seg type="diplomatic-text" rend="red">四十五</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -1910,13 +1910,13 @@
             <ab type="column" n="9" xml:id="f25-r-c09">
               <seg type="diplomatic-text">參半夏丸不日而治</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f25-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f25-r-c02">
               <label>右頁第2欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">四十六</seg>
+              <seg type="diplomatic-text" rend="red">四十六</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -1947,17 +1947,17 @@
             <ab type="column" n="9" xml:id="f25-l-c09">
               <seg type="diplomatic-text">者面目四肢水腫大便自調小便不利時時胸下痛</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f25-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上　十二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f25-l-c01">
               <label>左頁第1欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">四十七</seg>
+              <seg type="diplomatic-text" rend="red">四十七</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f25-l-c08">
               <label>左頁第8欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">四十八</seg>
+              <seg type="diplomatic-text" rend="red">四十八</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -1994,17 +1994,17 @@
             <ab type="column" n="9" xml:id="f26-r-c09">
               <seg type="diplomatic-text">無効乃棄置不療者數月後聞先生有起廢排痼之</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f26-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f26-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f26-r-c05">
               <label>右頁第5欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">四十九</seg>
+              <seg type="diplomatic-text" rend="red">四十九</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f26-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f26-r-c08">
               <label>右頁第8欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">五十</seg>
+              <seg type="diplomatic-text" rend="red">五十</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -2035,17 +2035,17 @@
             <ab type="column" n="9" xml:id="f26-l-c09">
               <seg type="diplomatic-text">蘇汁請治於先生先生診之曰此瘀血也與大黄牡</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f26-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上　十三</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f26-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f26-l-c03">
               <label>左頁第3欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">五十一</seg>
+              <seg type="diplomatic-text" rend="red">五十一</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f26-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f26-l-c08">
               <label>左頁第8欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">五十二</seg>
+              <seg type="diplomatic-text" rend="red">五十二</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -2082,17 +2082,17 @@
             <ab type="column" n="9" xml:id="f27-r-c09">
               <seg type="diplomatic-text">沸騰撞胸勢若激波日晡潮熱大便秘結或咳或眩</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f27-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f27-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f27-r-c03">
               <label>右頁第3欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">五十三</seg>
+              <seg type="diplomatic-text" rend="red">五十三</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f27-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f27-r-c06">
               <label>右頁第6欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">五十四</seg>
+              <seg type="diplomatic-text" rend="red">五十四</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -2123,17 +2123,17 @@
             <ab type="column" n="9" xml:id="f27-l-c09">
               <seg type="diplomatic-text">和州人僑居大坂鰻谷來謁先生曰僕年五十有餘</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f27-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上　十四</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f27-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f27-l-c06">
               <label>左頁第6欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">五十五</seg>
+              <seg type="diplomatic-text" rend="red">五十五</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f27-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f27-l-c09">
               <label>左頁第9欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">五十六</seg>
+              <seg type="diplomatic-text" rend="red">五十六</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -2170,13 +2170,13 @@
             <ab type="column" n="9" xml:id="f28-r-c09">
               <seg type="diplomatic-text">不過食耳門人皆曰宜八味丸先生與以五苓散而</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f28-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f28-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f28-r-c08">
               <label>右頁第8欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">五十七</seg>
+              <seg type="diplomatic-text" rend="red">五十七</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -2207,21 +2207,21 @@
             <ab type="column" n="9" xml:id="f28-l-c09">
               <seg type="diplomatic-text">蹲卧而汗大出渇而引飲喫湯水數十碗小便亦數</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f28-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上　十五</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f28-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>左頁第2、3欄界上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">五十八</seg>
+              <seg type="diplomatic-text" rend="red">五十八</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f28-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f28-l-c04">
               <label>左頁第4欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">五十九</seg>
+              <seg type="diplomatic-text" rend="red">五十九</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f28-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f28-l-c07">
               <label>左頁第7欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">六十</seg>
+              <seg type="diplomatic-text" rend="red">六十</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -2258,17 +2258,17 @@
             <ab type="column" n="9" xml:id="f29-r-c09">
               <seg type="diplomatic-text">苓牡蠣湯而愈</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f29-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f29-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f29-r-c04">
               <label>右頁第4欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">六十一</seg>
+              <seg type="diplomatic-text" rend="red">六十一</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f29-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f29-r-c07">
               <label>右頁第7欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">六十二</seg>
+              <seg type="diplomatic-text" rend="red">六十二</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -2299,17 +2299,17 @@
             <ab type="column" n="9" xml:id="f29-l-c09">
               <seg type="diplomatic-text">殊甚先生與以桃仁承氣湯下利數行諸證頓穩後</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f29-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上　十六</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f29-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f29-l-c01">
               <label>左頁第1欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">六十三</seg>
+              <seg type="diplomatic-text" rend="red">六十三</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f29-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f29-l-c05">
               <label>左頁第5欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">六十四</seg>
+              <seg type="diplomatic-text" rend="red">六十四</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -2346,21 +2346,21 @@
             <ab type="column" n="9" xml:id="f30-r-c09">
               <seg type="diplomatic-text">備中一村甲恒易恐驚胸腹動悸攣急惡寒手足微</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f30-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f30-r-c02">
               <label>右頁第2欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">六十五</seg>
+              <seg type="diplomatic-text" rend="red">六十五</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f30-r-c04">
               <label>右頁第4欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">六十六</seg>
+              <seg type="diplomatic-text" rend="red">六十六</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f30-r-c09">
               <label>右頁第9欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">六十七</seg>
+              <seg type="diplomatic-text" rend="red">六十七</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -2391,21 +2391,21 @@
             <ab type="column" n="9" xml:id="f30-l-c09">
               <seg type="diplomatic-text">麥大棗湯而愈</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f30-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上　十七</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f30-l-c03">
               <label>左頁第3欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">六十八</seg>
+              <seg type="diplomatic-text" rend="red">六十八</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f30-l-c06">
               <label>左頁第6欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">六十九</seg>
+              <seg type="diplomatic-text" rend="red">六十九</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f30-l-c08">
               <label>左頁第8欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">七十</seg>
+              <seg type="diplomatic-text" rend="red">七十</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -2458,13 +2458,13 @@
             <ab type="column" n="9" xml:id="f31-r-c09">
               <seg type="diplomatic-text">攝南住吉廟祝某所患粗同前證但見諸物以為人</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f31-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f31-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f31-r-c09">
               <label>右頁第9欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">七十一</seg>
+              <seg type="diplomatic-text" rend="red">七十一</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -2495,17 +2495,17 @@
             <ab type="column" n="9" xml:id="f31-l-c09">
               <seg type="diplomatic-text">一少年一日大飲酒而後妄言如狂卒倒直視四肢</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f31-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上　十八</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f31-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f31-l-c06">
               <label>左頁第6欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">七十二</seg>
+              <seg type="diplomatic-text" rend="red">七十二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f31-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f31-l-c09">
               <label>左頁第9欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">七十三</seg>
+              <seg type="diplomatic-text" rend="red">七十三</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -2542,13 +2542,13 @@
             <ab type="column" n="9" xml:id="f32-r-c09">
               <seg type="diplomatic-text">困倦四肢惰痛更與當歸四逆加呉茱萸生薑湯二</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f32-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f32-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f32-r-c06">
               <label>右頁第6欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">七十四</seg>
+              <seg type="diplomatic-text" rend="red">七十四</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -2579,17 +2579,17 @@
             <ab type="column" n="9" xml:id="f32-l-c09">
               <seg type="diplomatic-text">之甚似狂狀已乃作呉茱萸湯服之疾即愈</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f32-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上　十九</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f32-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f32-l-c02">
               <label>左頁第2欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">七十五</seg>
+              <seg type="diplomatic-text" rend="red">七十五</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f32-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f32-l-c06">
               <label>左頁第6欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">七十六</seg>
+              <seg type="diplomatic-text" rend="red">七十六</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -2626,21 +2626,21 @@
             <ab type="column" n="9" xml:id="f33-r-c09">
               <seg type="diplomatic-text">與之大柴胡湯大便快通諸證稍退雖然頭痛未全</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f33-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f33-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f33-r-c01">
               <label>右頁第1欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">七十七</seg>
+              <seg type="diplomatic-text" rend="red">七十七</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f33-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f33-r-c04">
               <label>右頁第4欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">七十八</seg>
+              <seg type="diplomatic-text" rend="red">七十八</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f33-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f33-r-c07">
               <label>右頁第7欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">七十九</seg>
+              <seg type="diplomatic-text" rend="red">七十九</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -2671,17 +2671,17 @@
             <ab type="column" n="9" xml:id="f33-l-c09">
               <seg type="diplomatic-text">口眼喎斜腫痛尤甚今目眩云云則客證已</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f33-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上　二十</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f33-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f33-l-c02">
               <label>左頁第2欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">八十</seg>
+              <seg type="diplomatic-text" rend="red">八十</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f33-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f33-l-c06">
               <label>左頁第6欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">八十一</seg>
+              <seg type="diplomatic-text" rend="red">八十一</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -2718,21 +2718,21 @@
             <ab type="column" n="9" xml:id="f34-r-c09">
               <seg type="diplomatic-text">至胸下鞕満上衝不得息自汗如流兩足厥冷二便</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f34-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f34-r-c01">
               <label>右頁第1欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">八十二</seg>
+              <seg type="diplomatic-text" rend="red">八十二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f34-r-c03">
               <label>右頁第3欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">八十三</seg>
+              <seg type="diplomatic-text" rend="red">八十三</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f34-r-c08">
               <label>右頁第8欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">八十四</seg>
+              <seg type="diplomatic-text" rend="red">八十四</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -2763,17 +2763,17 @@
             <ab type="column" n="9" xml:id="f34-l-c09">
               <seg type="diplomatic-text">歸建中湯兼用消塊丸踰月得行歩</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f34-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上　二十一</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f34-l-c05">
               <label>左頁第5欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">八十五</seg>
+              <seg type="diplomatic-text" rend="red">八十五</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f34-l-c07">
               <label>左頁第7欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">八十六</seg>
+              <seg type="diplomatic-text" rend="red">八十六</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -2810,17 +2810,17 @@
             <ab type="column" n="9" xml:id="f35-r-c09">
               <seg type="diplomatic-text">迫時時上竄神氣将亂乃用當歸芍藥湯尿快通色</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f35-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f35-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f35-r-c01">
               <label>右頁第1欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">八十七</seg>
+              <seg type="diplomatic-text" rend="red">八十七</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f35-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f35-r-c07">
               <label>右頁第7欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">八十八</seg>
+              <seg type="diplomatic-text" rend="red">八十八</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -2851,21 +2851,21 @@
             <ab type="column" n="9" xml:id="f35-l-c09">
               <seg type="diplomatic-text">冷水以堪焉先生診之腹中無所實乃與桂枝加朮</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f35-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上　二十二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f35-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f35-l-c02">
               <label>左頁第2欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">八十九</seg>
+              <seg type="diplomatic-text" rend="red">八十九</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f35-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f35-l-c05">
               <label>左頁第5欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">九十</seg>
+              <seg type="diplomatic-text" rend="red">九十</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f35-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f35-l-c08">
               <label>左頁第8欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">九十一</seg>
+              <seg type="diplomatic-text" rend="red">九十一</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -2902,21 +2902,21 @@
             <ab type="column" n="9" xml:id="f36-r-c09">
               <seg type="diplomatic-text">一男子腰以下痺冷痛手足煩熱舌上黒胎如實狀</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f36-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f36-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f36-r-c02">
               <label>右頁第2欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">九十二</seg>
+              <seg type="diplomatic-text" rend="red">九十二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f36-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f36-r-c05">
               <label>右頁第5欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">九十三</seg>
+              <seg type="diplomatic-text" rend="red">九十三</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f36-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f36-r-c09">
               <label>右頁第9欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">九十四</seg>
+              <seg type="diplomatic-text" rend="red">九十四</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -2947,17 +2947,17 @@
             <ab type="column" n="9" xml:id="f36-l-c09">
               <seg type="diplomatic-text">喜不已大鳴先生之功云</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f36-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上　二十三</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f36-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f36-l-c02">
               <label>左頁第2欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">九十五</seg>
+              <seg type="diplomatic-text" rend="red">九十五</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f36-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f36-l-c05">
               <label>左頁第5欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">九十六</seg>
+              <seg type="diplomatic-text" rend="red">九十六</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -2985,13 +2985,13 @@
             <ab type="column" n="6" xml:id="f37-r-c06">
               <seg type="diplomatic-text">成蹟録卷之上終</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f37-r-c06">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f37-r-c06">
+            <ab type="page-feature" subtype="vermilion-case-number" corresp="#f37-r-c01">
               <label>右頁第1欄上眉朱書</label>
-              <seg type="diplomatic-text" rend="unknown">九十七</seg>
+              <seg type="diplomatic-text" rend="red">九十七</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -3100,29 +3100,29 @@
             <ab type="column" n="8" xml:id="f41-l-c08">
               <seg type="diplomatic-text">一男子患瘧他醫與藥既一二發後一日汗大出不</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f41-l-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下　一</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f41-l-c08">
+            <ab type="page-feature" subtype="seal">
               <label>左頁欄外紅印</label>
-              <seg type="diplomatic-text" rend="unknown">富士川家藏本</seg>
+              <seg type="diplomatic-text" rend="red">富士川家藏本</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f41-l-c08">
+            <ab type="page-feature" subtype="seal">
               <label>左頁外側紅印</label>
-              <seg type="diplomatic-text" rend="unknown">富士川游寄贈</seg>
+              <seg type="diplomatic-text" rend="red">富士川游寄贈</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f41-l-c08">
+            <ab type="page-feature" subtype="seal">
               <label>左頁上方大方印</label>
               <seg type="diplomatic-text" rend="unknown">京都帝國大學圖書之印</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f41-l-c08">
+            <ab type="page-feature" subtype="seal">
               <label>左頁上方卵形墨印</label>
-              <seg type="diplomatic-text" rend="unknown">706069　昭15.9.6</seg>
+              <seg type="diplomatic-text" rend="unknown">706069　昭15.9.5</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f41-l-c08">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>左頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">九十八、一百</seg>
+              <seg type="diplomatic-text" rend="red">九十八、一百</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -3159,11 +3159,11 @@
             <ab type="column" n="9" xml:id="f42-r-c09">
               <seg type="diplomatic-text">胎脈微數不能起臥醫以為困極先生與之六物黃</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f42-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>右頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百一、一百二</seg>
+              <seg type="diplomatic-text" rend="red">一百一、一百二</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f42-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下</seg>
             </ab>
@@ -3196,11 +3196,11 @@
             <ab type="column" n="9" xml:id="f42-l-c09">
               <seg type="diplomatic-text">京師賈人某一日患頭痛狀如感冒次日譫語煩躁</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f42-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>左頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百三、一百四、一百五</seg>
+              <seg type="diplomatic-text" rend="red">一百三、一百四、一百五</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f42-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下　二</seg>
             </ab>
@@ -3247,11 +3247,11 @@
             <ab type="column" n="9" xml:id="f43-r-c09">
               <seg type="diplomatic-text">也因先與理中湯得之諸證益進家人狼狽求治於</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f43-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>右頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百六</seg>
+              <seg type="diplomatic-text" rend="red">一百六</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f43-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下</seg>
             </ab>
@@ -3284,11 +3284,11 @@
             <ab type="column" n="9" xml:id="f43-l-c09">
               <seg type="diplomatic-text">有閉當先治其逆乃服當歸四逆加吳茱萸生薑湯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f43-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>左頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百七</seg>
+              <seg type="diplomatic-text" rend="red">一百七</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f43-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下　三</seg>
             </ab>
@@ -3327,11 +3327,11 @@
             <ab type="column" n="9" xml:id="f44-r-c09">
               <seg type="diplomatic-text">時時妄語口燥而渴大便祕閉乃服桃仁承氣湯既</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f44-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>右頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百八、一百九</seg>
+              <seg type="diplomatic-text" rend="red">一百八、一百九</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f44-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下</seg>
             </ab>
@@ -3364,11 +3364,11 @@
             <ab type="column" n="9" xml:id="f44-l-c09">
               <seg type="diplomatic-text">以黃連解毒湯翌夜病勢益甚再請先生診之眼中</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f44-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>左頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百十、一百十一</seg>
+              <seg type="diplomatic-text" rend="red">一百十、一百十一</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f44-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下　四</seg>
             </ab>
@@ -3407,11 +3407,11 @@
             <ab type="column" n="9" xml:id="f45-r-c09">
               <seg type="diplomatic-text">京師繩手和泉屋某母年可四十病疫經三日舌胎</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f45-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>右頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百十二</seg>
+              <seg type="diplomatic-text" rend="red">一百十二</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f45-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下</seg>
             </ab>
@@ -3444,7 +3444,7 @@
             <ab type="column" n="9" xml:id="f45-l-c09">
               <seg type="diplomatic-text">之心下急迫而大汗出腹中微滿舌頭焦赤而微渴</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f45-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下　五</seg>
             </ab>
@@ -3483,11 +3483,11 @@
             <ab type="column" n="9" xml:id="f46-r-c09">
               <seg type="diplomatic-text">乃與桃仁承氣湯二日微喘吃逆止舌上苔去而乾</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f46-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>右頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百十三</seg>
+              <seg type="diplomatic-text" rend="red">一百十三</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f46-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下</seg>
             </ab>
@@ -3520,11 +3520,11 @@
             <ab type="column" n="9" xml:id="f46-l-c09">
               <seg type="diplomatic-text">微弱舌上白胎乃與白頭翁加甘艸阿膠湯無幾全</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f46-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>左頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百十四、一百十五</seg>
+              <seg type="diplomatic-text" rend="red">一百十四、一百十五</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f46-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下　六</seg>
             </ab>
@@ -3563,11 +3563,11 @@
             <ab type="column" n="9" xml:id="f47-r-c09">
               <seg type="diplomatic-text">語煩悶喘嗽潮熱心下鞕滿舌上黑胎於是與大柴</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f47-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>右頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百十六、一百十七</seg>
+              <seg type="diplomatic-text" rend="red">一百十六、一百十七</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f47-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下</seg>
             </ab>
@@ -3598,13 +3598,13 @@
               <seg type="diplomatic-text">浪華賈人巽屋家僕卒然咽痛自申及酉四肢厥冷</seg>
             </ab>
             <ab type="column" n="9" xml:id="f47-l-c09">
-              <seg type="diplomatic-text">口不能言如存如亡衆醫以為必死舉家頗騷擾及</seg>
+              <seg type="diplomatic-text">口不能言如存如亡衆醫以為必死舉家煩騷擾及</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f47-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>左頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百十八、一百十九</seg>
+              <seg type="diplomatic-text" rend="red">一百十八、一百十九</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f47-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下　七</seg>
             </ab>
@@ -3643,11 +3643,11 @@
             <ab type="column" n="9" xml:id="f48-r-c09">
               <seg type="diplomatic-text">與五物桂枝桔梗湯五日全治</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f48-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>右頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百二十</seg>
+              <seg type="diplomatic-text" rend="red">一百二十</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f48-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下</seg>
             </ab>
@@ -3680,11 +3680,11 @@
             <ab type="column" n="9" xml:id="f48-l-c09">
               <seg type="diplomatic-text">知非醫治之所及亦來叩先生已先生幸勿□先生</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f48-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>左頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百二十一、一百二十二</seg>
+              <seg type="diplomatic-text" rend="red">一百二十一、一百二十二</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f48-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下　八</seg>
             </ab>
@@ -3731,11 +3731,11 @@
             <ab type="column" n="9" xml:id="f49-r-c09">
               <seg type="diplomatic-text">逆眼中生花時或微嘔起臥不安心氣不定先生處</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f49-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>右頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百二十三、一百二十四</seg>
+              <seg type="diplomatic-text" rend="red">一百二十三、一百二十四</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f49-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下</seg>
             </ab>
@@ -3768,11 +3768,11 @@
             <ab type="column" n="9" xml:id="f49-l-c09">
               <seg type="diplomatic-text">消動悸亦止漸得起步</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f49-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>左頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百二十五、一百二十六</seg>
+              <seg type="diplomatic-text" rend="red">一百二十五、一百二十六</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f49-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下　九</seg>
             </ab>
@@ -3811,7 +3811,7 @@
             <ab type="column" n="9" xml:id="f50-r-c09">
               <seg type="diplomatic-text">留石川子得者以屬醫事浪華有一醫生時稱巨擘</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f50-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下</seg>
             </ab>
@@ -3844,11 +3844,11 @@
             <ab type="column" n="9" xml:id="f50-l-c09">
               <seg type="diplomatic-text">一男子患癰所謂發背大如盤一醫療之三月不差</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f50-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>左頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百二十七</seg>
+              <seg type="diplomatic-text" rend="red">一百二十七</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f50-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下　十</seg>
             </ab>
@@ -3887,11 +3887,11 @@
             <ab type="column" n="9" xml:id="f51-r-c09">
               <seg type="diplomatic-text">腫而有光澤眉毛脫落乃與桂枝加朮附湯兼用應</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f51-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>右頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百二十八、一百二十九</seg>
+              <seg type="diplomatic-text" rend="red">一百二十八、一百二十九</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f51-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下</seg>
             </ab>
@@ -3924,11 +3924,11 @@
             <ab type="column" n="9" xml:id="f51-l-c09">
               <seg type="diplomatic-text">有蒸熱醫曰毒在骨髓非藥所及也其人頗懼遂謀</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f51-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>左頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百三十、一百三十一</seg>
+              <seg type="diplomatic-text" rend="red">一百三十、一百三十一</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f51-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下　十一</seg>
             </ab>
@@ -3967,11 +3967,11 @@
             <ab type="column" n="9" xml:id="f52-r-c09">
               <seg type="diplomatic-text">一門生與桂枝加朮附湯及七寶丸不治遂請先生</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f52-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>右頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百三十二、一百三十三</seg>
+              <seg type="diplomatic-text" rend="red">一百三十二、一百三十三</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f52-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下</seg>
             </ab>
@@ -4004,11 +4004,11 @@
             <ab type="column" n="9" xml:id="f52-l-c09">
               <seg type="diplomatic-text">桂枝加芍藥生薑人參湯與之衝氣即低大便快通</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f52-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>左頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百三十四</seg>
+              <seg type="diplomatic-text" rend="red">一百三十四</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f52-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下　十二</seg>
             </ab>
@@ -4047,11 +4047,11 @@
             <ab type="column" n="9" xml:id="f53-r-c09">
               <seg type="diplomatic-text">一婦人年甫十九八月已來經水不來大便不通小</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f53-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>右頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百三十六</seg>
+              <seg type="diplomatic-text" rend="red">一百三十六</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f53-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下</seg>
             </ab>
@@ -4084,11 +4084,11 @@
             <ab type="column" n="9" xml:id="f53-l-c09">
               <seg type="diplomatic-text">治</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f53-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>左頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百三十七</seg>
+              <seg type="diplomatic-text" rend="red">一百三十七</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f53-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下　十三</seg>
             </ab>
@@ -4127,11 +4127,11 @@
             <ab type="column" n="9" xml:id="f54-r-c09">
               <seg type="diplomatic-text">除更用木防已加茯苓湯諸證全愈</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f54-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>右頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百三十八、一百三十九</seg>
+              <seg type="diplomatic-text" rend="red">一百三十八、一百三十九</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f54-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下</seg>
             </ab>
@@ -4164,11 +4164,11 @@
             <ab type="column" n="9" xml:id="f54-l-c09">
               <seg type="diplomatic-text">俱熱如烙他處無熱舌上微黃無苔問曰胸滿幾日</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f54-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>左頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百四十、一百四十一</seg>
+              <seg type="diplomatic-text" rend="red">一百四十、一百四十一</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f54-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下　十四</seg>
             </ab>
@@ -4207,11 +4207,11 @@
             <ab type="column" n="9" xml:id="f55-r-c09">
               <seg type="diplomatic-text">一小兒外襲衄血門人某與麻黃湯衄益來先生診</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f55-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>右頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百四十二、一百四十三</seg>
+              <seg type="diplomatic-text" rend="red">一百四十二、一百四十三</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f55-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下</seg>
             </ab>
@@ -4244,11 +4244,11 @@
             <ab type="column" n="9" xml:id="f55-l-c09">
               <seg type="diplomatic-text">條爾後相逐而下綿綿不絕遂吐下千有餘條痛頓</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f55-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>左頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百四十四、一百四十五</seg>
+              <seg type="diplomatic-text" rend="red">一百四十四、一百四十五</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f55-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下　十五</seg>
             </ab>
@@ -4287,18 +4287,18 @@
             <ab type="column" n="9" xml:id="f56-r-c09">
               <seg type="diplomatic-text">服</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f56-r-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>右頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百四十六、一百四十七</seg>
+              <seg type="diplomatic-text" rend="red">一百四十六、一百四十七</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f56-r-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
             <ab type="column" n="1" xml:id="f56-l-c01">
-              <seg type="diplomatic-text">伊州一賈人中鼠毒微腫微熱無幾疔瘡瘳後諸證</seg>
+              <seg type="diplomatic-text">伊州一賈人中鼠毒微腫微熱無幾疵瘳瘳後諸證</seg>
             </ab>
             <ab type="column" n="2" xml:id="f56-l-c02">
               <seg type="diplomatic-text">雜出心氣不定手足腫經年不治就先生求治診之</seg>
@@ -4324,11 +4324,11 @@
             <ab type="column" n="9" xml:id="f56-l-c09">
               <seg type="diplomatic-text">而然經年漸甚每至大如小指則忽落但春夏自治</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f56-l-c09">
+            <ab type="page-feature" subtype="vermilion-case-number">
               <label>左頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">一百四十八、一百四十九、一百五十</seg>
+              <seg type="diplomatic-text" rend="red">一百四十八、一百四十九、一百五十</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f56-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下　十六</seg>
             </ab>
@@ -4349,7 +4349,7 @@
             <ab type="column" n="3" xml:id="f57-r-c03">
               <seg type="diplomatic-text">成蹟錄卷之下終</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f57-r-c03">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　卷之下</seg>
             </ab>
@@ -4382,15 +4382,15 @@
             <ab type="column" n="9" xml:id="f57-l-c09">
               <seg type="diplomatic-text">小青龍湯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f57-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f57-l-c06">
               <label>左頁第六欄方名下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">以金匱要畧乾薑人參半夏丸為湯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f57-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f57-l-c07">
               <label>左頁第七欄方名下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">以金匱當歸芍藥散為湯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f57-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f57-l-c08">
               <label>左頁第八欄方名下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">金匱○即傷寒論柴胡桂枝乾薑湯</seg>
             </ab>
@@ -4398,11 +4398,11 @@
               <label>左頁第九欄方名下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f57-l-c09">
+            <ab type="page-feature" subtype="vermilion-annotation">
               <label>左頁上方朱記候讀</label>
-              <seg type="diplomatic-text" rend="unknown">血</seg>
+              <seg type="diplomatic-text" rend="red">血</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f57-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心葉碼</label>
               <seg type="diplomatic-text" rend="unknown">一</seg>
             </ab>
@@ -4441,35 +4441,35 @@
             <ab type="column" n="9" xml:id="f58-r-c09">
               <seg type="diplomatic-text">眞武湯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-r-c01">
               <label>右頁第一欄方名下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">金匱苓甘薑味辛夏湯中加人參</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-r-c02">
               <label>右頁第二欄方名下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-r-c03">
               <label>右頁第三欄方名下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論桃核承氣湯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-r-c04">
               <label>右頁第四欄方名下小字</label>
               <seg type="diplomatic-text" rend="unknown">金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-r-c05">
               <label>右頁第五欄方名下小字</label>
               <seg type="diplomatic-text" rend="unknown">同前</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-r-c06">
               <label>右頁第六欄方名下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">家方○本外臺秘要所出張文仲大黃湯去黃蘗加黃芩外臺別有黃連解毒湯然不同</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-r-c07">
               <label>右頁第七欄方名下小字</label>
               <seg type="diplomatic-text" rend="unknown">金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-r-c08">
               <label>右頁第八欄方名下小字</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論</seg>
             </ab>
@@ -4506,35 +4506,35 @@
             <ab type="column" n="9" xml:id="f58-l-c09">
               <seg type="diplomatic-text">大承氣湯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-l-c01">
               <label>左頁第一欄方名下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論○即金匱茵陳湯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-l-c02">
               <label>左頁第二欄方名下小字</label>
               <seg type="diplomatic-text" rend="unknown">金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-l-c03">
               <label>左頁第三欄方名下小字</label>
               <seg type="diplomatic-text" rend="unknown">同前</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-l-c04">
               <label>左頁第四欄方名下小字</label>
               <seg type="diplomatic-text" rend="unknown">同前</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-l-c05">
               <label>左頁第五欄方名下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-l-c06">
               <label>左頁第六欄方名下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論桂枝湯中加朮茯苓二味</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-l-c07">
               <label>左頁第七欄方名下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f58-l-c08">
               <label>左頁第八欄方名下小字</label>
               <seg type="diplomatic-text" rend="unknown">金匱</seg>
             </ab>
@@ -4542,7 +4542,7 @@
               <label>左頁第九欄方名下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f58-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心葉碼</label>
               <seg type="diplomatic-text" rend="unknown">二</seg>
             </ab>
@@ -4581,35 +4581,35 @@
             <ab type="column" n="9" xml:id="f59-r-c09">
               <seg type="diplomatic-text">木防已加茯苓湯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-r-c01">
               <label>右頁第一欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">金匱○即以傷寒論理中丸為湯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-r-c02">
               <label>右頁第二欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-r-c03">
               <label>右頁第三欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-r-c04">
               <label>右頁第四欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">同前</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-r-c05">
               <label>右頁第五欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">同前</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-r-c06">
               <label>右頁第六欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-r-c07">
               <label>右頁第七欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-r-c08">
               <label>右頁第八欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">金匱</seg>
             </ab>
@@ -4617,9 +4617,9 @@
               <label>右頁第九欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">金匱木防已湯中加茯苓</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-r-c09">
+            <ab type="page-feature" subtype="vermilion-annotation">
               <label>右頁上方朱記</label>
-              <seg type="diplomatic-text" rend="unknown">水、水</seg>
+              <seg type="diplomatic-text" rend="red">水、水</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -4650,35 +4650,35 @@
             <ab type="column" n="9" xml:id="f59-l-c09">
               <seg type="diplomatic-text">苓桂朮甘湯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-l-c01">
               <label>左頁第一欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-l-c02">
               <label>左頁第二欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論麻黃杏仁甘艸石膏湯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-l-c03">
               <label>左頁第三欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-l-c04">
               <label>左頁第四欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">同前○此方今為湯用</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-l-c05">
               <label>左頁第五欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-l-c06">
               <label>左頁第六欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論大柴胡湯中加茯苓牡蠣二味</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-l-c07">
               <label>左頁第七欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論小建中湯中加茯苓</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f59-l-c08">
               <label>左頁第八欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">金匱</seg>
             </ab>
@@ -4686,7 +4686,7 @@
               <label>左頁第九欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">同前○即傷寒論茯苓桂枝白朮甘艸湯</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f59-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心葉碼</label>
               <seg type="diplomatic-text" rend="unknown">三</seg>
             </ab>
@@ -4725,35 +4725,35 @@
             <ab type="column" n="9" xml:id="f60-r-c09">
               <seg type="diplomatic-text">附子湯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-r-c01">
               <label>右頁第一欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-r-c02">
               <label>右頁第二欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-r-c03">
               <label>右頁第三欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">家方○本出於松原氏</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-r-c04">
               <label>右頁第四欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論桂枝湯中加朮附二味</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-r-c05">
               <label>右頁第五欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">前方中更加茯苓</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-r-c06">
               <label>右頁第六欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-r-c07">
               <label>右頁第七欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">同前</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-r-c08">
               <label>右頁第八欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">前桂枝加朮附湯中更加芍藥</seg>
             </ab>
@@ -4790,35 +4790,35 @@
             <ab type="column" n="9" xml:id="f60-l-c09">
               <seg type="diplomatic-text">大柴胡加芒消湯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-l-c01">
               <label>左頁第一欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">以金匱八味丸為湯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-l-c02">
               <label>左頁第二欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論小柴胡湯中加石膏</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-l-c03">
               <label>左頁第三欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">金匱所引外臺黃芩湯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-l-c04">
               <label>左頁第四欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-l-c05">
               <label>左頁第五欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">同前</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-l-c06">
               <label>左頁第六欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">畧稱前方</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-l-c07">
               <label>左頁第七欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f60-l-c08">
               <label>左頁第八欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論</seg>
             </ab>
@@ -4826,7 +4826,7 @@
               <label>左頁第九欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論大柴胡湯中加芒硝</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f60-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心葉碼</label>
               <seg type="diplomatic-text" rend="unknown">四</seg>
             </ab>
@@ -4865,35 +4865,35 @@
             <ab type="column" n="9" xml:id="f61-r-c09">
               <seg type="diplomatic-text">排膿湯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-r-c01">
               <label>右頁第一欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">金匱桂枝去芍藥加麻黃細辛附子湯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-r-c02">
               <label>右頁第二欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">家方</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-r-c03">
               <label>右頁第三欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">前方中加大黃</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-r-c04">
               <label>右頁第四欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論葛根湯中加朮附二味</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-r-c05">
               <label>右頁第五欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">葛根湯中加大黃</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-r-c06">
               <label>右頁第六欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">葛根湯中加桔梗</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-r-c07">
               <label>右頁第七欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-r-c08">
               <label>右頁第八欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">金匱</seg>
             </ab>
@@ -4930,31 +4930,31 @@
             <ab type="column" n="9" xml:id="f61-l-c09">
               <seg type="diplomatic-text">當歸芍藥散</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-l-c01">
               <label>左頁第一欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">同前</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-l-c02">
               <label>左頁第二欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">傷寒論</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-l-c03">
               <label>左頁第三欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-l-c04">
               <label>左頁第四欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">家方○本出於民間</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-l-c06">
               <label>左頁第六欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">以前黃連解毒湯為散</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-l-c07">
               <label>左頁第七欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">畧稱前方</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f61-l-c08">
               <label>左頁第八欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">家方</seg>
             </ab>
@@ -4962,7 +4962,7 @@
               <label>左頁第九欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f61-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心葉碼</label>
               <seg type="diplomatic-text" rend="unknown">五</seg>
             </ab>
@@ -5001,31 +5001,31 @@
             <ab type="column" n="9" xml:id="f62-r-c09">
               <seg type="diplomatic-text">消塊丸</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-r-c01">
               <label>右頁第一欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">畧稱前方</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-r-c02">
               <label>右頁第二欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">世醫所謂芩黃散</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-r-c03">
               <label>右頁第三欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">家方○本出於民間</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-r-c04">
               <label>右頁第四欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">金匱○即傷寒論白散</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-r-c05">
               <label>右頁第五欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">家方○本出於民間</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-r-c06">
               <label>右頁第六欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-r-c07">
               <label>右頁第七欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">家方</seg>
             </ab>
@@ -5062,35 +5062,35 @@
             <ab type="column" n="9" xml:id="f62-l-c09">
               <seg type="diplomatic-text">硫黃丸</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-l-c01">
               <label>左頁第一欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">家方</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-l-c02">
               <label>左頁第二欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-l-c03">
               <label>左頁第三欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">家方○東洞先生稱為夷則丸後避先生諱改為今稱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-l-c04">
               <label>左頁第四欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">千金方</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-l-c05">
               <label>左頁第五欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">家方○本出於民間</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-l-c06">
               <label>左頁第六欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">金匱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-l-c07">
               <label>左頁第七欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">家方○本出於民間</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f62-l-c08">
               <label>左頁第八欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">金匱下瘀血湯是也其方以酒煮丸故從湯名今直丸用之不復酒煮</seg>
             </ab>
@@ -5098,7 +5098,7 @@
               <label>左頁第九欄方名下注</label>
               <seg type="diplomatic-text" rend="unknown">家方</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f62-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心葉碼</label>
               <seg type="diplomatic-text" rend="unknown">六</seg>
             </ab>
@@ -5148,11 +5148,11 @@
             <ab type="column" n="9" xml:id="f63-l-c09">
               <seg type="diplomatic-text">出於其門者何也東洞得教化之法而南涯則失之</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f63-l-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f63-l-c02">
               <label>左頁第二欄署名</label>
               <seg type="diplomatic-text" rend="unknown">中川故</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f63-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">附錄　一</seg>
             </ab>
@@ -5220,7 +5220,7 @@
             <ab type="column" n="9" xml:id="f64-l-c09">
               <seg type="diplomatic-text">守成固自不同在亂則先武在治則貴文豈得相均</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f64-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">附錄　二</seg>
             </ab>
@@ -5288,7 +5288,7 @@
             <ab type="column" n="9" xml:id="f65-l-c09">
               <seg type="diplomatic-text">先生今歲週花甲門生義故開筵賀之故之誦勞亦</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f65-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">附錄　三</seg>
             </ab>
@@ -5327,7 +5327,7 @@
             <ab type="column" n="9" xml:id="f66-r-c09">
               <seg type="diplomatic-text">毀傷者孝之教也飲啖嗜欲不失中正者禮之教也</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f66-r-c09">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f66-r-c04">
               <label>右頁第四欄署名</label>
               <seg type="diplomatic-text" rend="unknown">賀屋敬</seg>
             </ab>
@@ -5360,7 +5360,7 @@
             <ab type="column" n="9" xml:id="f66-l-c09">
               <seg type="diplomatic-text">偏於養甚不養則偏於不養偏者皆害於性焉呂不</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f66-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">附錄　四</seg>
             </ab>
@@ -5428,7 +5428,7 @@
             <ab type="column" n="9" xml:id="f67-l-c09">
               <seg type="diplomatic-text">疏通嗚呼其亦何生之保乎以藥為餌而欲補其眞</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f67-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">附錄　五</seg>
             </ab>
@@ -5496,7 +5496,7 @@
             <ab type="column" n="9" xml:id="f68-l-c09">
               <seg type="diplomatic-text">織紡績之工則必亂行釀欲而病毒隨生豈其可不</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f68-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">附錄　六</seg>
             </ab>
@@ -5549,11 +5549,11 @@
             <ab type="column" n="8" xml:id="f69-l-c08">
               <seg type="diplomatic-text">千中得五十人南涯於八百中未得一</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f69-l-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　跋　一</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f69-l-c08">
+            <ab type="page-feature" subtype="seal" corresp="#f69-l-c01">
               <label>左頁第一欄題下方印</label>
               <seg type="diplomatic-text" rend="unknown">〔印文未辨〕</seg>
             </ab>
@@ -5589,7 +5589,7 @@
             <ab type="column" n="8" xml:id="f70-r-c08">
               <seg type="diplomatic-text">未識伊藤氏然以此說推之徒見其</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f70-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>外側版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄</seg>
             </ab>
@@ -5619,7 +5619,7 @@
             <ab type="column" n="8" xml:id="f70-l-c08">
               <seg type="diplomatic-text">生所長可也余已親知其人之異又能</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f70-l-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>外側版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄／二</seg>
             </ab>
@@ -5657,15 +5657,15 @@
             <ab type="column" n="6" xml:id="f71-r-c06">
               <seg type="diplomatic-text">藤長春書</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f71-r-c06">
+            <ab type="page-feature" subtype="seal">
               <label>署款左兩方印</label>
               <seg type="diplomatic-text" rend="unknown">印文未釋</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f71-r-c06">
+            <ab type="page-feature" subtype="seal">
               <label>書者署下印</label>
               <seg type="diplomatic-text" rend="unknown">印文未釋</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f71-r-c06">
+            <ab type="page-feature" subtype="running-title">
               <label>外側版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄</seg>
             </ab>
@@ -5689,7 +5689,7 @@
             <ab type="column" n="6" xml:id="f71-l-c06">
               <seg type="diplomatic-text">其晚歲門人幾逾于二千人則</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f71-l-c06">
+            <ab type="page-feature" subtype="running-title">
               <label>外側版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄</seg>
             </ab>
@@ -5719,31 +5719,31 @@
             <ab type="column" n="6" xml:id="f72-r-c06">
               <seg type="diplomatic-text">河內　平義良謹識</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f72-r-c06">
+            <ab type="page-feature" subtype="seal">
               <label>署款下方印</label>
               <seg type="diplomatic-text" rend="unknown">印文未釋</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f72-r-c06">
+            <ab type="page-feature" subtype="running-title">
               <label>外側版心</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="copy-annotation">
               <label>紅格紙附籤第一欄</label>
               <seg type="diplomatic-text" rend="unknown">成蹟錄　二卷</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="copy-annotation">
               <label>紅格紙附籤第二欄</label>
               <seg type="diplomatic-text" rend="unknown">中川修亭著</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="copy-annotation">
               <label>紅格紙附籤第三欄</label>
-              <seg type="diplomatic-text" rend="unknown">吉益南涯先生の門人中川修亭がその</seg>
+              <seg type="diplomatic-text" rend="unknown" xml:lang="ja">吉益南涯先生の門人中川修亭がその</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="copy-annotation">
               <label>紅格紙附籤第四欄</label>
-              <seg type="diplomatic-text" rend="unknown">師の治験を輯録せしもの</seg>
+              <seg type="diplomatic-text" rend="unknown" xml:lang="ja">師の治験を輯録せしもの</seg>
             </ab>
           </div>
           <div type="editorial-observations">

@@ -4,11 +4,11 @@
 
 Seisekiroku is a two-volume Literary Chinese casebook compiled by Nakagawa Kozan from the clinical experience of Yoshimasu Nangai. The Kyoto University witness (Fujikawa Collection セ/177) has a preface dated 1821. Its case accounts describe consultations, courses of illness, and observations by families and physicians. The volumes also preserve a concordance of formula names and their sources, a birthday address for Nangai, and appended colophons.
 
-## V0.1.0
+## V0.2.0
 
-75 幅全部定位，上下兩卷共 66 幅含 127 面正文字。刻本附記、眉上朱書例號和館籤另錄，原件同一右頁重拍者連回首次轉錄。部分連筆、藏印、細訓點附疑讀或留待原圖。本版為 AI 輔助逐欄初錄，疑字及附註已定位。
+75 幅全部定位，上下兩卷共 66 幅含 127 面正文字。刻本附記、眉上朱書例號和館籤另錄，原件同一右頁重拍者連回首次轉錄。部分連筆、藏印、細訓點附疑讀或留待原圖。比對未見初稿的本機 OCR 候選後，回圖裁定採用 319 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-All 75 scans are indexed. Sixty-six scans contain 127 written faces across the two volumes. Substantive notes, vermilion case numbers, and library slips are recorded separately. Repeated right-hand pages refer to the first transcription. Some cursive characters, seal texts, and reading marks remain unresolved. AI-assisted column-by-column initial transcription with unresolved readings and annotations referenced to the source.
+All 75 scans are indexed. Sixty-six scans contain 127 written faces across the two volumes. Substantive notes, vermilion case numbers, and library slips are recorded separately. Repeated right-hand pages refer to the first transcription. Some cursive characters, seal texts, and reading marks remain unresolved. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 319 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 
